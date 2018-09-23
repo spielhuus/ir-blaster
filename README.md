@@ -1,7 +1,7 @@
 # ir-blaster
 
-[<img src="https://spielhuus.github.io/greenhouse/perfboard.png" alt="perfboard" width="200" height="80">](https://spielhuus.github.io/ir-blaster/perfboard.png)
-[<img src="https://spielhuus.github.io/greenhouse/perfboard.png" alt="photo" width="200" height="80">](https://spielhuus.github.io/ir-blaster/photo.jpg)
+[<img src="https://spielhuus.github.io/ir-blaster/perfboard.png" alt="perfboard" width="400" height="275">](https://spielhuus.github.io/ir-blaster/perfboard.png)
+[<img src="https://spielhuus.github.io/ir-blaster/photo.jpg" alt="photo" width="576" height="275">](https://spielhuus.github.io/ir-blaster/photo.jpg)
 
 ### Components
 
