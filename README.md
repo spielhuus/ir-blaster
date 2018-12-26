@@ -27,6 +27,8 @@ Add the Libraries to you IDE:
 
 - Open Boards Manager from Tools > Board menu and install esp8266 platform (and don't forget to select your ESP8266 board from Tools > Board menu after installation).
 
+
+- Install 
 - Install TinyLoRa-BME280 v1.1
   - Download the ZIP archive from [TinyLoRa-BME280 v1.1](https://github.com/ClemensRiederer/TinyLoRa-BME280_v1.1)
   - Install the ZIP archive in the Arduino Library Manager
